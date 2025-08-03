@@ -1,5 +1,5 @@
 
-# LDAP injection
+# LDAP injection in Rust with Actix-Web 🦀
 
 LDAP (Lightweight Directory Access Protocol) is used for accessing and maintaining distributed directory information services. An LDAP injection attack occurs when an application improperly sanitizes user input, which is then used in an LDAP query. This is similar to SQL injection and can lead to unauthorized data access or authentication bypass.
 
